@@ -27,6 +27,8 @@ This repository contains a regularly updated paper list on the **roles and mecha
   *Yongliang Wu, Yizhou Zhou, Zhou Ziheng, Yingzhe Peng, Xinyu Ye, Xinting Hu, Wenbo Zhu, Lu Qi, Ming-Hsuan Yang, Xu Yang*. [[pdf](https://arxiv.org/abs/2508.05629)], 2025.08. ![](https://img.shields.io/badge/Arxiv2025-orange)
 - **Retaining by Doing: The Role of On-Policy Data in Mitigating Forgetting**  
 *Howard Chen, Noam Razin, Karthik Narasimhan, Danqi Chen*. [[pdf](https://arxiv.org/abs/2510.18874)], 2025.10. ![](https://img.shields.io/badge/Arxiv2025-orange)
+- **SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training**  
+*Tianzhe Chu, Yuexiang Zhai, Jihan Yang, Shengbang Tong, Saining Xie, Dale Schuurmans, Quoc V. Le, Sergey Levine, Yi Ma*. [[pdf](https://arxiv.org/abs/2501.17161)], 2025.01. ![](https://img.shields.io/badge/ICML2025-orange)
 
 ### Entropy Collapse in RLVR
 - **The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models**  
