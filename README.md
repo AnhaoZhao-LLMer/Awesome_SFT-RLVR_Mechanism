@@ -8,7 +8,7 @@ This repository contains a regularly updated paper list on the **roles and mecha
 - [Keywords Convention](#keywords-convention)
 - [Papers](#papers)
   - [Comparison of Mechanisms between RLVR and SFT](#comparison-of-mechanisms-between-rlvr-and-sft)
-  - [Entropy Collapse in RLVR](#entropy-collapse-in-rlvr)
+  - [The Entropy Mechanism in RLVR](#the-entropy-mechanism-in-rlvr)
   - [Are RL-Posttraining Capabilities Fundamentally Novel?](#are-rl-posttraining-capabilities-fundamentally-novel)
 
 
@@ -30,11 +30,14 @@ This repository contains a regularly updated paper list on the **roles and mecha
 - **SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training**  
 *Tianzhe Chu, Yuexiang Zhai, Jihan Yang, Shengbang Tong, Saining Xie, Dale Schuurmans, Quoc V. Le, Sergey Levine, Yi Ma*. [[pdf](https://arxiv.org/abs/2501.17161)], 2025.01. ![](https://img.shields.io/badge/ICML2025-orange)
 
-### Entropy Collapse in RLVR
+### The Entropy Mechanism in RLVR
+
 - **The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models**  
 *Ganqu Cui, Yuchen Zhang, Jiacheng Chen, Lifan Yuan, Zhi Wang, Yuxin Zuo, Haozhan Li, Yuchen Fan, Huayu Chen, Weize Chen, Zhiyuan Liu, Hao Peng, Lei Bai, Wanli Ouyang, Yu Cheng, Bowen Zhou, Ning Ding*. [[pdf](https://arxiv.org/abs/2505.22617)], 2025.05. ![](https://img.shields.io/badge/Arxiv2025-orange)
 - **Rethinking Entropy Interventions in RLVR: An Entropy Change Perspective**  
 *Zhezheng Hao, Hong Wang, Haoyang Liu, Jian Luo, Jiarui Yu, Hande Dong, Qiang Lin, Can Wang, Jiawei Chen*. [[pdf](https://arxiv.org/abs/2510.10150)], 2025.10. ![](https://img.shields.io/badge/Arxiv2025-orange)
+- **Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective Reinforcement Learning for LLM Reasoning**  
+*Shenzhi Wang, Le Yu, Chang Gao, Chujie Zheng, Shixuan Liu, Rui Lu, Kai Dang, Xionghui Chen, Jianxin Yang, Zhenru Zhang, Yuqiong Liu, An Yang, Andrew Zhao, Yang Yue, Shiji Song, Bowen Yu, Gao Huang, Junyang Lin*. [[pdf](https://arxiv.org/abs/2506.01939)], 2025.06. ![](https://img.shields.io/badge/NeurIPS2025-orange)
 
 ### Are RL-Posttraining Capabilities Fundamentally Novel?
 
