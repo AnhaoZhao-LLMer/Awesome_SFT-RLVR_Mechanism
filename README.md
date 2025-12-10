@@ -26,9 +26,11 @@ This repository contains a regularly updated paper list on the **roles and mecha
 - **On the Generalization of SFT: A Reinforcement Learning Perspective with Reward Rectification**  
   *Yongliang Wu, Yizhou Zhou, Zhou Ziheng, Yingzhe Peng, Xinyu Ye, Xinting Hu, Wenbo Zhu, Lu Qi, Ming-Hsuan Yang, Xu Yang*. [[pdf](https://arxiv.org/abs/2508.05629)], 2025.08. ![](https://img.shields.io/badge/Arxiv2025-orange)
 - **Retaining by Doing: The Role of On-Policy Data in Mitigating Forgetting**  
-*Howard Chen, Noam Razin, Karthik Narasimhan, Danqi Chen*. [[pdf](https://arxiv.org/abs/2510.18874)], 2025.10. ![](https://img.shields.io/badge/Arxiv2025-orange)
+  *Howard Chen, Noam Razin, Karthik Narasimhan, Danqi Chen*. [[pdf](https://arxiv.org/abs/2510.18874)], 2025.10. ![](https://img.shields.io/badge/Arxiv2025-orange)
 - **SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training**  
-*Tianzhe Chu, Yuexiang Zhai, Jihan Yang, Shengbang Tong, Saining Xie, Dale Schuurmans, Quoc V. Le, Sergey Levine, Yi Ma*. [[pdf](https://arxiv.org/abs/2501.17161)], 2025.01. ![](https://img.shields.io/badge/ICML2025-orange)
+  *Tianzhe Chu, Yuexiang Zhai, Jihan Yang, Shengbang Tong, Saining Xie, Dale Schuurmans, Quoc V. Le, Sergey Levine, Yi Ma*. [[pdf](https://arxiv.org/abs/2501.17161)], 2025.01. ![](https://img.shields.io/badge/ICML2025-orange)
+- **PretrainZero: Reinforcement Active Pretraining**  
+  *Xingrun Xing, Zhiyuan Fan, Jie Lou, Guoqi Li, Jiajun Zhang, Debing Zhang*. [[pdf](https://arxiv.org/abs/2512.03442)], 2025.12. ![](https://img.shields.io/badge/Arxiv2025-orange)
 
 ### The Entropy Mechanism in RLVR
 
