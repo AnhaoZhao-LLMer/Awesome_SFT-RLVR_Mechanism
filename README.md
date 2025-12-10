@@ -42,7 +42,9 @@ This repository contains a regularly updated paper list on the **roles and mecha
 ### Are RL-Posttraining Capabilities Fundamentally Novel?
 
 - **Reasoning with Sampling: Your Base Model is Smarter Than You Think**  
-  *Aayush Karan, Yilun Du*. [[pdf](https://arxiv.org/abs/2510.14901)], 2025.10. ![](https://img.shields.io/badge/Arxiv2025-orange)
+*Aayush Karan, Yilun Du*. [[pdf](https://arxiv.org/abs/2510.14901)], 2025.10. ![](https://img.shields.io/badge/Arxiv2025-orange)
 - **Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?**  
-  *Yang Yue, Zhiqi Chen, Rui Lu, Andrew Zhao, Zhaokai Wang, Yang Yue, Shiji Song, Gao Huang*. [[pdf](https://arxiv.org/abs/2504.13837)], 2025.04. ![](https://img.shields.io/badge/Arxiv2025-orange)
+*Yang Yue, Zhiqi Chen, Rui Lu, Andrew Zhao, Zhaokai Wang, Yang Yue, Shiji Song, Gao Huang*. [[pdf](https://arxiv.org/abs/2504.13837)], 2025.04. ![](https://img.shields.io/badge/Arxiv2025-orange)
+- **On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models**  
+*Charlie Zhang, Graham Neubig, Xiang Yue*. [[pdf](https://www.arxiv.org/abs/2512.07783)], 2025.12. ![](https://img.shields.io/badge/Arxiv2025-orange)
 
