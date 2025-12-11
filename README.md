@@ -10,6 +10,7 @@ This repository contains a regularly updated paper list on the **roles and mecha
   - [Comparison of Mechanisms between RLVR and SFT](#comparison-of-mechanisms-between-rlvr-and-sft)
   - [The Entropy Mechanism in RLVR](#the-entropy-mechanism-in-rlvr)
   - [Are RL-Posttraining Capabilities Fundamentally Novel?](#are-rl-posttraining-capabilities-fundamentally-novel)
+  - [GRPO in RLVR: Flaws and Corrections](#grpo-in-rlvr-flaws-and-corrections)
 
 
 ## Keywords Convention
@@ -35,18 +36,26 @@ This repository contains a regularly updated paper list on the **roles and mecha
 ### The Entropy Mechanism in RLVR
 
 - **The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models**  
-*Ganqu Cui, Yuchen Zhang, Jiacheng Chen, Lifan Yuan, Zhi Wang, Yuxin Zuo, Haozhan Li, Yuchen Fan, Huayu Chen, Weize Chen, Zhiyuan Liu, Hao Peng, Lei Bai, Wanli Ouyang, Yu Cheng, Bowen Zhou, Ning Ding*. [[pdf](https://arxiv.org/abs/2505.22617)], 2025.05. ![](https://img.shields.io/badge/Arxiv2025-orange)
+  *Ganqu Cui, Yuchen Zhang, Jiacheng Chen, Lifan Yuan, Zhi Wang, Yuxin Zuo, Haozhan Li, Yuchen Fan, Huayu Chen, Weize Chen, Zhiyuan Liu, Hao Peng, Lei Bai, Wanli Ouyang, Yu Cheng, Bowen Zhou, Ning Ding*. [[pdf](https://arxiv.org/abs/2505.22617)], 2025.05. ![](https://img.shields.io/badge/Arxiv2025-orange)
 - **Rethinking Entropy Interventions in RLVR: An Entropy Change Perspective**  
-*Zhezheng Hao, Hong Wang, Haoyang Liu, Jian Luo, Jiarui Yu, Hande Dong, Qiang Lin, Can Wang, Jiawei Chen*. [[pdf](https://arxiv.org/abs/2510.10150)], 2025.10. ![](https://img.shields.io/badge/Arxiv2025-orange)
+  *Zhezheng Hao, Hong Wang, Haoyang Liu, Jian Luo, Jiarui Yu, Hande Dong, Qiang Lin, Can Wang, Jiawei Chen*. [[pdf](https://arxiv.org/abs/2510.10150)], 2025.10. ![](https://img.shields.io/badge/Arxiv2025-orange)
 - **Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective Reinforcement Learning for LLM Reasoning**  
-*Shenzhi Wang, Le Yu, Chang Gao, Chujie Zheng, Shixuan Liu, Rui Lu, Kai Dang, Xionghui Chen, Jianxin Yang, Zhenru Zhang, Yuqiong Liu, An Yang, Andrew Zhao, Yang Yue, Shiji Song, Bowen Yu, Gao Huang, Junyang Lin*. [[pdf](https://arxiv.org/abs/2506.01939)], 2025.06. ![](https://img.shields.io/badge/NeurIPS2025-orange)
+  *Shenzhi Wang, Le Yu, Chang Gao, Chujie Zheng, Shixuan Liu, Rui Lu, Kai Dang, Xionghui Chen, Jianxin Yang, Zhenru Zhang, Yuqiong Liu, An Yang, Andrew Zhao, Yang Yue, Shiji Song, Bowen Yu, Gao Huang, Junyang Lin*. [[pdf](https://arxiv.org/abs/2506.01939)], 2025.06. ![](https://img.shields.io/badge/NeurIPS2025-orange)
 
 ### Are RL-Posttraining Capabilities Fundamentally Novel?
 
 - **Reasoning with Sampling: Your Base Model is Smarter Than You Think**  
-*Aayush Karan, Yilun Du*. [[pdf](https://arxiv.org/abs/2510.14901)], 2025.10. ![](https://img.shields.io/badge/Arxiv2025-orange)
+  *Aayush Karan, Yilun Du*. [[pdf](https://arxiv.org/abs/2510.14901)], 2025.10. ![](https://img.shields.io/badge/Arxiv2025-orange)
 - **Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?**  
-*Yang Yue, Zhiqi Chen, Rui Lu, Andrew Zhao, Zhaokai Wang, Yang Yue, Shiji Song, Gao Huang*. [[pdf](https://arxiv.org/abs/2504.13837)], 2025.04. ![](https://img.shields.io/badge/Arxiv2025-orange)
+  *Yang Yue, Zhiqi Chen, Rui Lu, Andrew Zhao, Zhaokai Wang, Yang Yue, Shiji Song, Gao Huang*. [[pdf](https://arxiv.org/abs/2504.13837)], 2025.04. ![](https://img.shields.io/badge/Arxiv2025-orange)
 - **On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models**  
-*Charlie Zhang, Graham Neubig, Xiang Yue*. [[pdf](https://www.arxiv.org/abs/2512.07783)], 2025.12. ![](https://img.shields.io/badge/Arxiv2025-orange)
+  *Charlie Zhang, Graham Neubig, Xiang Yue*. [[pdf](https://www.arxiv.org/abs/2512.07783)], 2025.12. ![](https://img.shields.io/badge/Arxiv2025-orange)
 
+### GRPO in RLVR: Flaws and Corrections
+
+- **DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models**  
+  *DeepSeek-AI*. [[pdf](https://arxiv.org/abs/2512.02556)], 2025.12. ![](https://img.shields.io/badge/Arxiv2025-orange)
+- **Training-Free Group Relative Policy Optimization**  
+  *Youtu-Agent Team*. [[pdf](https://arxiv.org/pdf/2510.08191)], 2025.10. ![](https://img.shields.io/badge/Arxiv2025-orange)
+- **The Surprising Effectiveness of Negative Reinforcement in LLM Reasoning**  
+  *Xinyu Zhu, Mengzhou Xia, Zhepei Wei, Wei-Lin Chen, Danqi Chen, Yu Meng*. [[pdf](https://arxiv.org/abs/2506.01347)], 2025.06. ![](https://img.shields.io/badge/Arxiv2025-orange)
