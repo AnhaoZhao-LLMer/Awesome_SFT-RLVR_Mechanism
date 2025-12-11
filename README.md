@@ -11,6 +11,7 @@ This repository contains a regularly updated paper list on the **roles and mecha
   - [The Entropy Mechanism in RLVR](#the-entropy-mechanism-in-rlvr)
   - [Are RL-Posttraining Capabilities Fundamentally Novel?](#are-rl-posttraining-capabilities-fundamentally-novel)
   - [GRPO in RLVR: Flaws and Corrections](#grpo-in-rlvr-flaws-and-corrections)
+  - [Exploration–Exploitation Optimization in GRPO](#explorationexploitation-optimization-in-grpo)
 
 
 ## Keywords Convention
@@ -32,6 +33,8 @@ This repository contains a regularly updated paper list on the **roles and mecha
   *Tianzhe Chu, Yuexiang Zhai, Jihan Yang, Shengbang Tong, Saining Xie, Dale Schuurmans, Quoc V. Le, Sergey Levine, Yi Ma*. [[pdf](https://arxiv.org/abs/2501.17161)], 2025.01. ![](https://img.shields.io/badge/ICML2025-orange)
 - **PretrainZero: Reinforcement Active Pretraining**  
   *Xingrun Xing, Zhiyuan Fan, Jie Lou, Guoqi Li, Jiajun Zhang, Debing Zhang*. [[pdf](https://arxiv.org/abs/2512.03442)], 2025.12. ![](https://img.shields.io/badge/Arxiv2025-orange)
+- **The Path Not Taken: RLVR Provably Learns Off the Principals**  
+  *Hanqing Zhu, Zhenyu Zhang, Hanxian Huang, DiJia Su, Zechun Liu, Jiawei Zhao, Igor Fedorov, Hamed Pirsiavash, Zhizhou Sha, Jinwon Lee, David Z. Pan, Zhangyang Wang, Yuandong Tian, Kai Sheng Tai*. [[pdf](https://arxiv.org/abs/2511.08567)], 2025.11. ![](https://img.shields.io/badge/Arxiv2025-orange)
 
 ### The Entropy Mechanism in RLVR
 
@@ -59,3 +62,9 @@ This repository contains a regularly updated paper list on the **roles and mecha
   *Youtu-Agent Team*. [[pdf](https://arxiv.org/pdf/2510.08191)], 2025.10. ![](https://img.shields.io/badge/Arxiv2025-orange)
 - **The Surprising Effectiveness of Negative Reinforcement in LLM Reasoning**  
   *Xinyu Zhu, Mengzhou Xia, Zhepei Wei, Wei-Lin Chen, Danqi Chen, Yu Meng*. [[pdf](https://arxiv.org/abs/2506.01347)], 2025.06. ![](https://img.shields.io/badge/Arxiv2025-orange)
+
+
+### Exploration–Exploitation Optimization in GRPO
+
+- **Learning to Reason under Off-Policy Guidance**  
+  *Jianhao Yan, Yafu Li, Zican Hu, Zhi Wang, Ganqu Cui, Xiaoye Qu, Yu Cheng, Yue Zhang*. [[pdf](https://arxiv.org/abs/2504.14945)], 2025.04. ![](https://img.shields.io/badge/NeurIPS2025-orange)
