@@ -66,7 +66,8 @@ This repository contains a regularly updated paper list on the **roles and mecha
   *Youtu-Agent Team*. [[pdf](https://arxiv.org/pdf/2510.08191)], 2025.10. ![](https://img.shields.io/badge/Arxiv2025-orange)
 - **The Surprising Effectiveness of Negative Reinforcement in LLM Reasoning**  
   *Xinyu Zhu, Mengzhou Xia, Zhepei Wei, Wei-Lin Chen, Danqi Chen, Yu Meng*. [[pdf](https://arxiv.org/abs/2506.01347)], 2025.06. ![](https://img.shields.io/badge/Arxiv2025-orange)
-
+- **GPG: A Simple and Strong Reinforcement Learning Baseline for Model Reasoning**  
+  *Xiangxiang Chu, Hailang Huang, Xiao Zhang, Fei Wei, Yong Wang*. [[pdf](https://arxiv.org/abs/2504.02546)], 2025.04. ![](https://img.shields.io/badge/Arxiv2025-orange)
 
 ### Exploration–Exploitation Optimization in GRPO
 
