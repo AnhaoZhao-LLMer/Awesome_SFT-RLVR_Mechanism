@@ -35,6 +35,10 @@ This repository contains a regularly updated paper list on the **roles and mecha
   *Xingrun Xing, Zhiyuan Fan, Jie Lou, Guoqi Li, Jiajun Zhang, Debing Zhang*. [[pdf](https://arxiv.org/abs/2512.03442)], 2025.12. ![](https://img.shields.io/badge/Arxiv2025-orange)
 - **The Path Not Taken: RLVR Provably Learns Off the Principals**  
   *Hanqing Zhu, Zhenyu Zhang, Hanxian Huang, DiJia Su, Zechun Liu, Jiawei Zhao, Igor Fedorov, Hamed Pirsiavash, Zhizhou Sha, Jinwon Lee, David Z. Pan, Zhangyang Wang, Yuandong Tian, Kai Sheng Tai*. [[pdf](https://arxiv.org/abs/2511.08567)], 2025.11. ![](https://img.shields.io/badge/Arxiv2025-orange)
+- **One-Token Rollout: Guiding Supervised Fine-Tuning of LLMs with Policy Gradient**  
+  *Rui Ming, Haoyuan Wu, Shoubo Hu, Zhuolun He, Bei Yu*. [[pdf](https://arxiv.org/abs/2509.26313)], 2025.09. ![](https://img.shields.io/badge/Arxiv2025-orange)
+- **On-Policy Distillation**  
+  *Kevin Lu and Thinking Machines Lab*. [[pdf](https://thinkingmachines.ai/blog/on-policy-distillation/)], 2025.10. ![](https://img.shields.io/badge/Blog2025-orange)
 
 ### The Entropy Mechanism in RLVR
 
