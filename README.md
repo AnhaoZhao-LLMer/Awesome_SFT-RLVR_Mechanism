@@ -48,6 +48,8 @@ This repository contains a regularly updated paper list on the **roles and mecha
   *Zhezheng Hao, Hong Wang, Haoyang Liu, Jian Luo, Jiarui Yu, Hande Dong, Qiang Lin, Can Wang, Jiawei Chen*. [[pdf](https://arxiv.org/abs/2510.10150)], 2025.10. ![](https://img.shields.io/badge/Arxiv2025-orange)
 - **Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective Reinforcement Learning for LLM Reasoning**  
   *Shenzhi Wang, Le Yu, Chang Gao, Chujie Zheng, Shixuan Liu, Rui Lu, Kai Dang, Xionghui Chen, Jianxin Yang, Zhenru Zhang, Yuqiong Liu, An Yang, Andrew Zhao, Yang Yue, Shiji Song, Bowen Yu, Gao Huang, Junyang Lin*. [[pdf](https://arxiv.org/abs/2506.01939)], 2025.06. ![](https://img.shields.io/badge/NeurIPS2025-orange)
+- **Quantile Advantage Estimation for Entropy-Safe Reasoning**  
+  *Junkang Wu, Kexin Huang, Jiancan Wu, An Zhang, Xiang Wang, Xiangnan He*. [[pdf](https://arxiv.org/abs/2509.22611)], 2025.09. ![](https://img.shields.io/badge/Arxiv2025-orange)
 
 ### Are RL-Posttraining Capabilities Fundamentally Novel?
 
