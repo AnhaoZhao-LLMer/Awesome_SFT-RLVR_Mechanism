@@ -68,6 +68,8 @@ This repository contains a regularly updated paper list on the **roles and mecha
   *Xinyu Zhu, Mengzhou Xia, Zhepei Wei, Wei-Lin Chen, Danqi Chen, Yu Meng*. [[pdf](https://arxiv.org/abs/2506.01347)], 2025.06. ![](https://img.shields.io/badge/Arxiv2025-orange)
 - **GPG: A Simple and Strong Reinforcement Learning Baseline for Model Reasoning**  
   *Xiangxiang Chu, Hailang Huang, Xiao Zhang, Fei Wei, Yong Wang*. [[pdf](https://arxiv.org/abs/2504.02546)], 2025.04. ![](https://img.shields.io/badge/Arxiv2025-orange)
+- **Understanding R1-Zero-Like Training: A Critical Perspective**  
+  *Zichen Liu, Changyu Chen, Wenjun Li, Penghui Qi, Tianyu Pang, Chao Du, Wee Sun Lee, Min Lin*. [[pdf](https://arxiv.org/abs/2503.20783)], 2025.03. ![](https://img.shields.io/badge/COLM2025-orange)
 
 ### Exploration–Exploitation Optimization in GRPO
 
