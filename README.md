@@ -39,6 +39,8 @@ This repository contains a regularly updated paper list on the **roles and mecha
   *Rui Ming, Haoyuan Wu, Shoubo Hu, Zhuolun He, Bei Yu*. [[pdf](https://arxiv.org/abs/2509.26313)], 2025.09. ![](https://img.shields.io/badge/Arxiv2025-orange)
 - **On-Policy Distillation**  
   *Kevin Lu and Thinking Machines Lab*. [[pdf](https://thinkingmachines.ai/blog/on-policy-distillation/)], 2025.10. ![](https://img.shields.io/badge/Blog2025-orange)
+- **SRFT: A Single-Stage Method with Supervised and Reinforcement Fine-Tuning for Reasoning**  
+  *Yuqian Fu, Tinghong Chen, Jiajun Chai, Xihuai Wang, Songjun Tu, Guojun Yin, Wei Lin, Qichao Zhang, Yuanheng Zhu, Dongbin Zhao*. [[pdf](https://arxiv.org/pdf/2506.19767)], 2025.06. ![](https://img.shields.io/badge/Arxiv2025-orange)
 
 ### The Entropy Mechanism in RLVR
 
@@ -72,6 +74,8 @@ This repository contains a regularly updated paper list on the **roles and mecha
   *Xiangxiang Chu, Hailang Huang, Xiao Zhang, Fei Wei, Yong Wang*. [[pdf](https://arxiv.org/abs/2504.02546)], 2025.04. ![](https://img.shields.io/badge/Arxiv2025-orange)
 - **Understanding R1-Zero-Like Training: A Critical Perspective**  
   *Zichen Liu, Changyu Chen, Wenjun Li, Penghui Qi, Tianyu Pang, Chao Du, Wee Sun Lee, Min Lin*. [[pdf](https://arxiv.org/abs/2503.20783)], 2025.03. ![](https://img.shields.io/badge/COLM2025-orange)
+- **DAPO: An Open-Source LLM Reinforcement Learning System at Scale**  
+  *Qiying Yu, Zheng Zhang, Ruofei Zhu, Yufeng Yuan, Xiaochen Zuo, Yu Yue, Weinan Dai, Tiantian Fan, Gaohong Liu, Lingjun Liu, Xin Liu, Haibin Lin, Zhiqi Lin, Bole Ma, Guangming Sheng, Yuxuan Tong, Chi Zhang, Mofan Zhang, Wang Zhang, Hang Zhu, Jinhua Zhu, Jiaze Chen, Jiangjie Chen, Chengyi Wang, Hongli Yu, Yuxuan Song, Xiangpeng Wei, Hao Zhou, Jingjing Liu, Wei-Ying Ma, Ya-Qin Zhang, Lin Yan, Mu Qiao, Yonghui Wu, Mingxuan Wang*. [[pdf](https://arxiv.org/pdf/2503.14476)], 2025.03. ![](https://img.shields.io/badge/NeurIPS2025-orange)
 
 ### Exploration–Exploitation Optimization in GRPO
 
