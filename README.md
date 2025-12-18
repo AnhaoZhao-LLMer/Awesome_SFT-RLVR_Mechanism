@@ -41,6 +41,8 @@ This repository contains a regularly updated paper list on the **roles and mecha
   *Kevin Lu and Thinking Machines Lab*. [[pdf](https://thinkingmachines.ai/blog/on-policy-distillation/)], 2025.10. ![](https://img.shields.io/badge/Blog2025-orange)
 - **SRFT: A Single-Stage Method with Supervised and Reinforcement Fine-Tuning for Reasoning**  
   *Yuqian Fu, Tinghong Chen, Jiajun Chai, Xihuai Wang, Songjun Tu, Guojun Yin, Wei Lin, Qichao Zhang, Yuanheng Zhu, Dongbin Zhao*. [[pdf](https://arxiv.org/pdf/2506.19767)], 2025.06. ![](https://img.shields.io/badge/Arxiv2025-orange)
+- **Towards a Unified View of Large Language Model Post-Training**  
+  *Xingtai Lv, Yuxin Zuo, Youbang Sun, Hongyi Liu, Yuntian Wei, Zhekai Chen, Lixuan He, Xuekai Zhu, Kaiyan Zhang, Bingning Wang, Ning Ding, Bowen Zhou*. [[pdf](https://arxiv.org/pdf/2509.04419)], 2025.09. ![](https://img.shields.io/badge/Arxiv2025-orange)
 
 ### The Entropy Mechanism in RLVR
 
