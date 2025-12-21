@@ -54,7 +54,9 @@ This repository contains a regularly updated paper list on the **roles and mecha
   *Shenzhi Wang, Le Yu, Chang Gao, Chujie Zheng, Shixuan Liu, Rui Lu, Kai Dang, Xionghui Chen, Jianxin Yang, Zhenru Zhang, Yuqiong Liu, An Yang, Andrew Zhao, Yang Yue, Shiji Song, Bowen Yu, Gao Huang, Junyang Lin*. [[pdf](https://arxiv.org/abs/2506.01939)], 2025.06. ![](https://img.shields.io/badge/NeurIPS2025-orange)
 - **Quantile Advantage Estimation for Entropy-Safe Reasoning**  
   *Junkang Wu, Kexin Huang, Jiancan Wu, An Zhang, Xiang Wang, Xiangnan He*. [[pdf](https://arxiv.org/abs/2509.22611)], 2025.09. ![](https://img.shields.io/badge/Arxiv2025-orange)
-
+- **SimKO: Simple Pass@K Policy Optimization**  
+  *Ruotian Peng, Yi Ren, Zhouliang Yu, Weiyang Liu, Yandong Wen*. [[pdf](https://arxiv.org/pdf/2510.14807)], 2025.10. ![](https://img.shields.io/badge/Arxiv2025-orange)
+  
 ### Are RL-Posttraining Capabilities Fundamentally Novel?
 
 - **Reasoning with Sampling: Your Base Model is Smarter Than You Think**  
