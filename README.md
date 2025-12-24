@@ -82,8 +82,7 @@ This repository contains a regularly updated paper list on the **roles and mecha
   *Qiying Yu, Zheng Zhang, Ruofei Zhu, Yufeng Yuan, Xiaochen Zuo, Yu Yue, Weinan Dai, Tiantian Fan, Gaohong Liu, Lingjun Liu, Xin Liu, Haibin Lin, Zhiqi Lin, Bole Ma, Guangming Sheng, Yuxuan Tong, Chi Zhang, Mofan Zhang, Wang Zhang, Hang Zhu, Jinhua Zhu, Jiaze Chen, Jiangjie Chen, Chengyi Wang, Hongli Yu, Yuxuan Song, Xiangpeng Wei, Hao Zhou, Jingjing Liu, Wei-Ying Ma, Ya-Qin Zhang, Lin Yan, Mu Qiao, Yonghui Wu, Mingxuan Wang*. [[pdf](https://arxiv.org/pdf/2503.14476)], 2025.03. ![](https://img.shields.io/badge/NeurIPS2025-orange)
 - **Group Sequence Policy Optimization**  
   *Chujie Zheng, Shixuan Liu, Mingze Li, Xiong-Hui Chen, Bowen Yu, Chang Gao, Kai Dang, Yuqiong Liu, Rui Men, An Yang, Jingren Zhou, Junyang Lin*. [[pdf](https://arxiv.org/pdf/2507.18071)], 2025.07. ![](https://img.shields.io/badge/Arxiv2025-orange)
-- **JustRL: Scaling a 1.5B LLM with a Simple RL Recipe**  
-  *Bingxiang He, Zekai Qu, Zeyuan Liu, Yinghao Chen, Yuxin Zuo, Cheng Qian, Kaiyan Zhang, Weize Chen, Chaojun Xiao, Ganqu Cui, Ning Ding, Zhiyuan Liu*. [[pdf](https://arxiv.org/pdf/2512.16649)], 2025.12. ![](https://img.shields.io/badge/Arxiv2025-orange)
+
 
 ### Exploration–Exploitation Optimization in GRPO
 
@@ -91,3 +90,5 @@ This repository contains a regularly updated paper list on the **roles and mecha
   *Jianhao Yan, Yafu Li, Zican Hu, Zhi Wang, Ganqu Cui, Xiaoye Qu, Yu Cheng, Yue Zhang*. [[pdf](https://arxiv.org/abs/2504.14945)], 2025.04. ![](https://img.shields.io/badge/NeurIPS2025-orange)
 - **SimKO: Simple Pass@K Policy Optimization**  
   *Ruotian Peng, Yi Ren, Zhouliang Yu, Weiyang Liu, Yandong Wen*. [[pdf](https://arxiv.org/pdf/2510.14807)], 2025.10. ![](https://img.shields.io/badge/Arxiv2025-orange)
+- **JustRL: Scaling a 1.5B LLM with a Simple RL Recipe**  
+  *Bingxiang He, Zekai Qu, Zeyuan Liu, Yinghao Chen, Yuxin Zuo, Cheng Qian, Kaiyan Zhang, Weize Chen, Chaojun Xiao, Ganqu Cui, Ning Ding, Zhiyuan Liu*. [[pdf](https://arxiv.org/pdf/2512.16649)], 2025.12. ![](https://img.shields.io/badge/Arxiv2025-orange)
