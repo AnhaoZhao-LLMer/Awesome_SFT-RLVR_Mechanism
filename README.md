@@ -56,6 +56,8 @@ This repository contains a regularly updated paper list on the **roles and mecha
   *Junkang Wu, Kexin Huang, Jiancan Wu, An Zhang, Xiang Wang, Xiangnan He*. [[pdf](https://arxiv.org/abs/2509.22611)], 2025.09. ![](https://img.shields.io/badge/Arxiv2025-orange)
 - **Clip-Low Increases Entropy and Clip-High Decreases Entropy in Reinforcement Learning of Large Language Models**  
   *Jaesung R. Park, Junsu Kim, Gyeongman Kim, Jinyoung Jo, Sean Choi, Jaewoong Cho, Ernest K. Ryu*. [[pdf](https://arxiv.org/pdf/2509.26114)], 2025.09. ![](https://img.shields.io/badge/Arxiv2025-orange)
+- **Decomposing the Entropy-Performance Exchange: The Missing Keys to Unlocking Effective Reinforcement Learning**  
+  *Jia Deng, Jie Chen, Zhipeng Chen, Wayne Xin Zhao, Ji-Rong Wen*. [[pdf](https://arxiv.org/pdf/2508.02260)], 2025.08. ![](https://img.shields.io/badge/Arxiv2025-orange)
   
 ### Are RL-Posttraining Capabilities Fundamentally Novel?
 
