@@ -58,6 +58,8 @@ This repository contains a regularly updated paper list on the **roles and mecha
   *Jaesung R. Park, Junsu Kim, Gyeongman Kim, Jinyoung Jo, Sean Choi, Jaewoong Cho, Ernest K. Ryu*. [[pdf](https://arxiv.org/pdf/2509.26114)], 2025.09. ![](https://img.shields.io/badge/Arxiv2025-orange)
 - **Decomposing the Entropy-Performance Exchange: The Missing Keys to Unlocking Effective Reinforcement Learning**  
   *Jia Deng, Jie Chen, Zhipeng Chen, Wayne Xin Zhao, Ji-Rong Wen*. [[pdf](https://arxiv.org/pdf/2508.02260)], 2025.08. ![](https://img.shields.io/badge/Arxiv2025-orange)
+- **Reasoning with Exploration: An Entropy Perspective**  
+  *Daixuan Cheng, Shaohan Huang, Xuekai Zhu, Bo Dai, Wayne Xin Zhao, Zhenliang Zhang, Furu Wei*. [[pdf](https://arxiv.org/pdf/2506.14758)], 2025.06. ![](https://img.shields.io/badge/Arxiv2025-orange)
   
 ### Are RL-Posttraining Capabilities Fundamentally Novel?
 
