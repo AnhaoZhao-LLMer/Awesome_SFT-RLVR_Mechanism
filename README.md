@@ -54,8 +54,8 @@ This repository contains a regularly updated paper list on the **roles and mecha
   *Shenzhi Wang, Le Yu, Chang Gao, Chujie Zheng, Shixuan Liu, Rui Lu, Kai Dang, Xionghui Chen, Jianxin Yang, Zhenru Zhang, Yuqiong Liu, An Yang, Andrew Zhao, Yang Yue, Shiji Song, Bowen Yu, Gao Huang, Junyang Lin*. [[pdf](https://arxiv.org/abs/2506.01939)], 2025.06. ![](https://img.shields.io/badge/NeurIPS2025-orange)
 - **Quantile Advantage Estimation for Entropy-Safe Reasoning**  
   *Junkang Wu, Kexin Huang, Jiancan Wu, An Zhang, Xiang Wang, Xiangnan He*. [[pdf](https://arxiv.org/abs/2509.22611)], 2025.09. ![](https://img.shields.io/badge/Arxiv2025-orange)
-- **SimKO: Simple Pass@K Policy Optimization**  
-  *Ruotian Peng, Yi Ren, Zhouliang Yu, Weiyang Liu, Yandong Wen*. [[pdf](https://arxiv.org/pdf/2510.14807)], 2025.10. ![](https://img.shields.io/badge/Arxiv2025-orange)
+- **Clip-Low Increases Entropy and Clip-High Decreases Entropy in Reinforcement Learning of Large Language Models**  
+  *Jaesung R. Park, Junsu Kim, Gyeongman Kim, Jinyoung Jo, Sean Choi, Jaewoong Cho, Ernest K. Ryu*. [[pdf](https://arxiv.org/pdf/2509.26114)], 2025.09. ![](https://img.shields.io/badge/Arxiv2025-orange)
   
 ### Are RL-Posttraining Capabilities Fundamentally Novel?
 
@@ -92,3 +92,5 @@ This repository contains a regularly updated paper list on the **roles and mecha
   *Ruotian Peng, Yi Ren, Zhouliang Yu, Weiyang Liu, Yandong Wen*. [[pdf](https://arxiv.org/pdf/2510.14807)], 2025.10. ![](https://img.shields.io/badge/Arxiv2025-orange)
 - **JustRL: Scaling a 1.5B LLM with a Simple RL Recipe**  
   *Bingxiang He, Zekai Qu, Zeyuan Liu, Yinghao Chen, Yuxin Zuo, Cheng Qian, Kaiyan Zhang, Weize Chen, Chaojun Xiao, Ganqu Cui, Ning Ding, Zhiyuan Liu*. [[pdf](https://arxiv.org/pdf/2512.16649)], 2025.12. ![](https://img.shields.io/badge/Arxiv2025-orange)
+- **SimKO: Simple Pass@K Policy Optimization**  
+  *Ruotian Peng, Yi Ren, Zhouliang Yu, Weiyang Liu, Yandong Wen*. [[pdf](https://arxiv.org/pdf/2510.14807)], 2025.10. ![](https://img.shields.io/badge/Arxiv2025-orange)
