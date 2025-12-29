@@ -60,6 +60,8 @@ This repository contains a regularly updated paper list on the **roles and mecha
   *Jia Deng, Jie Chen, Zhipeng Chen, Wayne Xin Zhao, Ji-Rong Wen*. [[pdf](https://arxiv.org/pdf/2508.02260)], 2025.08. ![](https://img.shields.io/badge/Arxiv2025-orange)
 - **Reasoning with Exploration: An Entropy Perspective**  
   *Daixuan Cheng, Shaohan Huang, Xuekai Zhu, Bo Dai, Wayne Xin Zhao, Zhenliang Zhang, Furu Wei*. [[pdf](https://arxiv.org/pdf/2506.14758)], 2025.06. ![](https://img.shields.io/badge/Arxiv2025-orange)
+- **Bottom-up Policy Optimization: Your Language Model Policy Secretly Contains Internal Policies**  
+  *Yuqiao Tan, Minzheng Wang, Shizhu He, Huanxuan Liao, Chengfeng Zhao, Qiunan Lu, Tian Liang, Jun Zhao, Kang Liu*. [[pdf](https://arxiv.org/pdf/2512.19673)], 2025.12. ![](https://img.shields.io/badge/Arxiv2025-orange)
   
 ### Are RL-Posttraining Capabilities Fundamentally Novel?
 
