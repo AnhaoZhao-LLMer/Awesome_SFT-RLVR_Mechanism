@@ -101,3 +101,5 @@ This repository contains a regularly updated paper list on the **roles and mecha
   *Bingxiang He, Zekai Qu, Zeyuan Liu, Yinghao Chen, Yuxin Zuo, Cheng Qian, Kaiyan Zhang, Weize Chen, Chaojun Xiao, Ganqu Cui, Ning Ding, Zhiyuan Liu*. [[pdf](https://arxiv.org/pdf/2512.16649)], 2025.12. ![](https://img.shields.io/badge/Arxiv2025-orange)
 - **SimKO: Simple Pass@K Policy Optimization**  
   *Ruotian Peng, Yi Ren, Zhouliang Yu, Weiyang Liu, Yandong Wen*. [[pdf](https://arxiv.org/pdf/2510.14807)], 2025.10. ![](https://img.shields.io/badge/Arxiv2025-orange)
+- **Rethinking Sample Polarity in Reinforcement Learning with Verifiable Rewards**  
+  *Xinyu Tang, Yuliang Zhan, Zhixun Li, Wayne Xin Zhao, Zhenduo Zhang, Zujie Wen, Zhiqiang Zhang, Jun Zhou*. [[pdf](https://www.arxiv.org/pdf/2512.21625)], 2025.12. ![](https://img.shields.io/badge/Arxiv2025-orange)
