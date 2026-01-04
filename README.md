@@ -90,6 +90,8 @@ This repository contains a regularly updated paper list on the **roles and mecha
   *Chujie Zheng, Shixuan Liu, Mingze Li, Xiong-Hui Chen, Bowen Yu, Chang Gao, Kai Dang, Yuqiong Liu, Rui Men, An Yang, Jingren Zhou, Junyang Lin*. [[pdf](https://arxiv.org/pdf/2507.18071)], 2025.07. ![](https://img.shields.io/badge/Arxiv2025-orange)
 - **Soft Adaptive Policy Optimization**  
   *Chang Gao, Chujie Zheng, Xiong-Hui Chen, Kai Dang, Shixuan Liu, Bowen Yu, An Yang, Shuai Bai, Jingren Zhou, Junyang Lin*. [[pdf](https://arxiv.org/pdf/2511.20347)], 2025.11. ![](https://img.shields.io/badge/Arxiv2025-orange)
+- **A Comedy of Estimators: On KL Regularization in RL Training of LLMs**  
+  *Vedant Shah, Johan Obando-Ceron, Vineet Jain, Brian Bartoldson, Bhavya Kailkhura, Sarthak Mittal, Glen Berseth, Pablo Samuel Castro, Yoshua Bengio, Nikolay Malkin, Moksh Jain, Siddarth Venkatraman, Aaron Courville*. [[pdf](https://www.arxiv.org/pdf/2512.21852)], 2025.12. ![](https://img.shields.io/badge/Arxiv2025-orange)
 
 ### Exploration–Exploitation Optimization in GRPO
 
