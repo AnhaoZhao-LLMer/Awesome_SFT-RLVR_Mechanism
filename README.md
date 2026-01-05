@@ -43,6 +43,8 @@ This repository contains a regularly updated paper list on the **roles and mecha
   *Yuqian Fu, Tinghong Chen, Jiajun Chai, Xihuai Wang, Songjun Tu, Guojun Yin, Wei Lin, Qichao Zhang, Yuanheng Zhu, Dongbin Zhao*. [[pdf](https://arxiv.org/pdf/2506.19767)], 2025.06. ![](https://img.shields.io/badge/Arxiv2025-orange)
 - **Towards a Unified View of Large Language Model Post-Training**  
   *Xingtai Lv, Yuxin Zuo, Youbang Sun, Hongyi Liu, Yuntian Wei, Zhekai Chen, Lixuan He, Xuekai Zhu, Kaiyan Zhang, Bingning Wang, Ning Ding, Bowen Zhou*. [[pdf](https://arxiv.org/pdf/2509.04419)], 2025.09. ![](https://img.shields.io/badge/Arxiv2025-orange)
+- **How and Why LLMs Generalize: A Fine-Grained Analysis of LLM Reasoning from Cognitive Behaviors to Low-Level Patterns**  
+  *Haoyue Bai, Yiyou Sun, Wenjie Hu, Shi Qiu, Maggie Ziyu Huan, Peiyang Song, Robert Nowak, Dawn Song*. [[pdf](https://arxiv.org/pdf/2512.24063v1)], 2025.12. ![](https://img.shields.io/badge/Arxiv2025-orange)
 
 ### The Entropy Mechanism in RLVR
 
@@ -71,7 +73,9 @@ This repository contains a regularly updated paper list on the **roles and mecha
   *Yang Yue, Zhiqi Chen, Rui Lu, Andrew Zhao, Zhaokai Wang, Yang Yue, Shiji Song, Gao Huang*. [[pdf](https://arxiv.org/abs/2504.13837)], 2025.04. ![](https://img.shields.io/badge/Arxiv2025-orange)
 - **On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models**  
   *Charlie Zhang, Graham Neubig, Xiang Yue*. [[pdf](https://www.arxiv.org/abs/2512.07783)], 2025.12. ![](https://img.shields.io/badge/Arxiv2025-orange)
-
+- **From f(x) and g(x) to f(g(x)): LLMs Learn New Skills in RL by Composing Old Ones**  
+  *Lifan Yuan, Weize Chen, Yuchen Zhang, Ganqu Cui, Hanbin Wang, Ziming You, Ning Ding, Zhiyuan Liu, Maosong Sun, Hao Peng*. [[pdf](https://arxiv.org/pdf/2509.25123)], 2025.09. ![](https://img.shields.io/badge/Arxiv2025-orange)
+  
 ### GRPO in RLVR: Flaws and Corrections
 
 - **DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models**  
