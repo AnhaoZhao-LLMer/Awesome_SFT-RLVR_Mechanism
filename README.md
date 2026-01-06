@@ -64,7 +64,9 @@ This repository contains a regularly updated paper list on the **roles and mecha
   *Daixuan Cheng, Shaohan Huang, Xuekai Zhu, Bo Dai, Wayne Xin Zhao, Zhenliang Zhang, Furu Wei*. [[pdf](https://arxiv.org/pdf/2506.14758)], 2025.06. ![](https://img.shields.io/badge/Arxiv2025-orange)
 - **Bottom-up Policy Optimization: Your Language Model Policy Secretly Contains Internal Policies**  
   *Yuqiao Tan, Minzheng Wang, Shizhu He, Huanxuan Liao, Chengfeng Zhao, Qiunan Lu, Tian Liang, Jun Zhao, Kang Liu*. [[pdf](https://arxiv.org/pdf/2512.19673)], 2025.12. ![](https://img.shields.io/badge/Arxiv2025-orange)
-  
+- **Weight Ensembling Improves Reasoning in Language Models**  
+  *Xingyu Dang, Christina Baek, Kaiyue Wen, Zico Kolter, Aditi Raghunathan*. [[pdf](https://arxiv.org/pdf/2504.10478)], 2025.04. ![](https://img.shields.io/badge/COLM2025-orange)
+
 ### Are RL-Posttraining Capabilities Fundamentally Novel?
 
 - **Reasoning with Sampling: Your Base Model is Smarter Than You Think**  
