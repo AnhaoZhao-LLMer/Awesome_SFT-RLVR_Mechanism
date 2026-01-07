@@ -117,3 +117,5 @@ This repository contains a regularly updated paper list on the **roles and mecha
   *Zhenyu Hou, Ziniu Hu, Yujiang Li, Rui Lu, Jie Tang, Yuxiao Dong*. [[pdf](https://arxiv.org/pdf/2506.11902)], 2025.06. ![](https://img.shields.io/badge/ACL2025-orange)
 - **Exploration vs Exploitation: Rethinking RLVR through Clipping, Entropy, and Spurious Reward**  
   *Peter Chen, Xiaopeng Li, Ziniu Li, Wotao Yin, Xi Chen, Tianyi Lin*. [[pdf](https://arxiv.org/pdf/2512.16912)], 2025.12. ![](https://img.shields.io/badge/Arxiv2025-orange)
+- **Don't Waste Mistakes: Leveraging Negative RL-Groups via Confidence Reweighting**  
+  *Yunzhen Feng, Parag Jain, Anthony Hartshorn, Yaqi Duan, Julia Kempe*. [[pdf](https://arxiv.org/pdf/2510.08696)], 2025.10. ![](https://img.shields.io/badge/Arxiv2025-orange)
