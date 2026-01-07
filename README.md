@@ -119,3 +119,5 @@ This repository contains a regularly updated paper list on the **roles and mecha
   *Peter Chen, Xiaopeng Li, Ziniu Li, Wotao Yin, Xi Chen, Tianyi Lin*. [[pdf](https://arxiv.org/pdf/2512.16912)], 2025.12. ![](https://img.shields.io/badge/Arxiv2025-orange)
 - **Don't Waste Mistakes: Leveraging Negative RL-Groups via Confidence Reweighting**  
   *Yunzhen Feng, Parag Jain, Anthony Hartshorn, Yaqi Duan, Julia Kempe*. [[pdf](https://arxiv.org/pdf/2510.08696)], 2025.10. ![](https://img.shields.io/badge/Arxiv2025-orange)
+- **Pass@k Training for Adaptively Balancing Exploration and Exploitation of Large Reasoning Models**  
+  *Zhipeng Chen, Xiaobo Qin, Youbin Wu, Yue Ling, Qinghao Ye, Wayne Xin Zhao, Guang Shi*. [[pdf](https://arxiv.org/pdf/2508.10751)], 2025.08. ![](https://img.shields.io/badge/Arxiv2025-orange)
