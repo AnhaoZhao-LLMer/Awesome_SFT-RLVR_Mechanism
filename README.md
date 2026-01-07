@@ -45,6 +45,8 @@ This repository contains a regularly updated paper list on the **roles and mecha
   *Xingtai Lv, Yuxin Zuo, Youbang Sun, Hongyi Liu, Yuntian Wei, Zhekai Chen, Lixuan He, Xuekai Zhu, Kaiyan Zhang, Bingning Wang, Ning Ding, Bowen Zhou*. [[pdf](https://arxiv.org/pdf/2509.04419)], 2025.09. ![](https://img.shields.io/badge/Arxiv2025-orange)
 - **How and Why LLMs Generalize: A Fine-Grained Analysis of LLM Reasoning from Cognitive Behaviors to Low-Level Patterns**  
   *Haoyue Bai, Yiyou Sun, Wenjie Hu, Shi Qiu, Maggie Ziyu Huan, Peiyang Song, Robert Nowak, Dawn Song*. [[pdf](https://arxiv.org/pdf/2512.24063v1)], 2025.12. ![](https://img.shields.io/badge/Arxiv2025-orange)
+- **Diversity or Precision? A Deep Dive into Next Token Prediction**  
+  *Haoyuan Wu, Hai Wang, Jiajia Wu, Jinxiang Ou, Keyao Wang, Weile Chen, Zihao Zheng, Bei Yu*. [[pdf](https://arxiv.org/pdf/2512.22955)], 2025.12. ![](https://img.shields.io/badge/Arxiv2025-orange)
 
 ### The Entropy Mechanism in RLVR
 
