@@ -100,6 +100,8 @@ This repository contains a regularly updated paper list on the **roles and mecha
   *Chang Gao, Chujie Zheng, Xiong-Hui Chen, Kai Dang, Shixuan Liu, Bowen Yu, An Yang, Shuai Bai, Jingren Zhou, Junyang Lin*. [[pdf](https://arxiv.org/pdf/2511.20347)], 2025.11. ![](https://img.shields.io/badge/Arxiv2025-orange)
 - **A Comedy of Estimators: On KL Regularization in RL Training of LLMs**  
   *Vedant Shah, Johan Obando-Ceron, Vineet Jain, Brian Bartoldson, Bhavya Kailkhura, Sarthak Mittal, Glen Berseth, Pablo Samuel Castro, Yoshua Bengio, Nikolay Malkin, Moksh Jain, Siddarth Venkatraman, Aaron Courville*. [[pdf](https://www.arxiv.org/pdf/2512.21852)], 2025.12. ![](https://img.shields.io/badge/Arxiv2025-orange)
+- **A Minimalist Approach to LLM Reasoning: from Rejection Sampling to Reinforce**  
+  *Wei Xiong, Jiarui Yao, Yuhui Xu, Bo Pang, Lei Wang, Doyen Sahoo, Junnan Li, Nan Jiang, Tong Zhang, Caiming Xiong, Hanze Dong*. [[pdf](https://arxiv.org/pdf/2504.11343)], 2025.04. ![](https://img.shields.io/badge/Arxiv2025-orange)
 
 ### Exploration–Exploitation Optimization in GRPO
 
