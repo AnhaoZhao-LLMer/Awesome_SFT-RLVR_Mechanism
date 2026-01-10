@@ -102,6 +102,8 @@ This repository contains a regularly updated paper list on the **roles and mecha
   *Vedant Shah, Johan Obando-Ceron, Vineet Jain, Brian Bartoldson, Bhavya Kailkhura, Sarthak Mittal, Glen Berseth, Pablo Samuel Castro, Yoshua Bengio, Nikolay Malkin, Moksh Jain, Siddarth Venkatraman, Aaron Courville*. [[pdf](https://www.arxiv.org/pdf/2512.21852)], 2025.12. ![](https://img.shields.io/badge/Arxiv2025-orange)
 - **A Minimalist Approach to LLM Reasoning: from Rejection Sampling to Reinforce**  
   *Wei Xiong, Jiarui Yao, Yuhui Xu, Bo Pang, Lei Wang, Doyen Sahoo, Junnan Li, Nan Jiang, Tong Zhang, Caiming Xiong, Hanze Dong*. [[pdf](https://arxiv.org/pdf/2504.11343)], 2025.04. ![](https://img.shields.io/badge/Arxiv2025-orange)
+- **GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization**  
+  *Shih-Yang Liu, Xin Dong, Ximing Lu, Shizhe Diao, Peter Belcak, Mingjie Liu, Min-Hung Chen, Hongxu Yin, Yu-Chiang Frank Wang, Kwang-Ting Cheng, Yejin Choi, Jan Kautz, Pavlo Molchanov*. [[pdf](https://arxiv.org/pdf/2601.05242)], 2026.01. ![](https://img.shields.io/badge/Arxiv2026-orange)
 
 ### Exploration–Exploitation Optimization in GRPO
 
