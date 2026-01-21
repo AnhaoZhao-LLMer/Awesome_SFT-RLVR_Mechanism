@@ -108,6 +108,8 @@ This repository contains a regularly updated paper list on the **roles and mecha
   *Shih-Yang Liu, Xin Dong, Ximing Lu, Shizhe Diao, Peter Belcak, Mingjie Liu, Min-Hung Chen, Hongxu Yin, Yu-Chiang Frank Wang, Kwang-Ting Cheng, Yejin Choi, Jan Kautz, Pavlo Molchanov*. [[pdf](https://arxiv.org/pdf/2601.05242)], 2026.01. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **SSPO: Subsentence-level Policy Optimization**  
   *Kun Yang, Zikang chen, Yanmeng Wang, Zhigen Li*. [[pdf](https://arxiv.org/pdf/2511.04256)], 2025.11. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **Your Group-Relative Advantage Is Biased**  
+  *Fengkai Yang, Zherui Chen, Xiaohan Wang, Xiaodong Lu, Jiajun Chai, Guojun Yin, Wei Lin, Shuai Ma, Fuzhen Zhuang, Deqing Wang, Yaodong Yang, Jianxin Li, Yikun Ban*. [[pdf](https://arxiv.org/pdf/2601.08521)], 2025.01. ![](https://img.shields.io/badge/Arxiv2026-orange)
 
 ### Exploration–Exploitation Optimization in GRPO
 
