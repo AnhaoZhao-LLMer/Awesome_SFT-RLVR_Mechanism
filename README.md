@@ -133,3 +133,5 @@ This repository contains a regularly updated paper list on the **roles and mecha
   *Yunzhen Feng, Parag Jain, Anthony Hartshorn, Yaqi Duan, Julia Kempe*. [[pdf](https://arxiv.org/pdf/2510.08696)], 2025.10. ![](https://img.shields.io/badge/Arxiv2025-orange)
 - **Pass@k Training for Adaptively Balancing Exploration and Exploitation of Large Reasoning Models**  
   *Zhipeng Chen, Xiaobo Qin, Youbin Wu, Yue Ling, Qinghao Ye, Wayne Xin Zhao, Guang Shi*. [[pdf](https://arxiv.org/pdf/2508.10751)], 2025.08. ![](https://img.shields.io/badge/Arxiv2025-orange)
+- **R3L: Reflect-then-Retry Reinforcement Learning with Language-Guided Exploration, Pivotal Credit, and Positive Amplification**  
+  *Weijie Shi, Yanxi Chen, Zexi Li, Xuchen Pan, Yuchang Sun, Jiajie Xu, Xiaofang Zhou, Yaliang Li*. [[pdf](https://www.arxiv.org/pdf/2601.03715)], 2026.01. ![](https://img.shields.io/badge/Arxiv2026-orange)
