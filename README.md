@@ -49,6 +49,8 @@ This repository contains a regularly updated paper list on the **roles and mecha
   *Haoyuan Wu, Hai Wang, Jiajia Wu, Jinxiang Ou, Keyao Wang, Weile Chen, Zihao Zheng, Bei Yu*. [[pdf](https://arxiv.org/pdf/2512.22955)], 2025.12. ![](https://img.shields.io/badge/Arxiv2025-orange)
 - **Supervised Fine Tuning on Curated Data is Reinforcement Learning (and can be improved)**  
   *Chongli Qin, Jost Tobias Springenberg*. [[pdf](https://arxiv.org/pdf/2507.12856)], 2025.07. ![](https://img.shields.io/badge/Arxiv2025-orange)
+- **Anchored Supervised Fine-Tuning**  
+  *He Zhu, Junyou Su, Peng Lai, Ren Ma, Wenjia Zhang, Linyi Yang, Guanhua Chen*. [[pdf](https://arxiv.org/pdf/2509.23753)], 2025.09. ![](https://img.shields.io/badge/Arxiv2025-orange)
 
 ### The Entropy Mechanism in RLVR
 
