@@ -11,7 +11,9 @@ This repository contains a regularly updated paper list on the **roles and mecha
   - [The Entropy Mechanism in RLVR](#the-entropy-mechanism-in-rlvr)
   - [Are RL-Posttraining Capabilities Fundamentally Novel?](#are-rl-posttraining-capabilities-fundamentally-novel)
   - [GRPO in RLVR: Flaws and Corrections](#grpo-in-rlvr-flaws-and-corrections)
+  - [SFT: Flaws and Corrections](#sft-flaws-and-corrections)
   - [Exploration–Exploitation Optimization in GRPO](#explorationexploitation-optimization-in-grpo)
+  - [Hybrid SFT-RL Training](#hybrid-sft-rl-training)
 
 
 ## Keywords Convention
@@ -112,6 +114,16 @@ This repository contains a regularly updated paper list on the **roles and mecha
   *Kun Yang, Zikang chen, Yanmeng Wang, Zhigen Li*. [[pdf](https://arxiv.org/pdf/2511.04256)], 2025.11. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **Your Group-Relative Advantage Is Biased**  
   *Fengkai Yang, Zherui Chen, Xiaohan Wang, Xiaodong Lu, Jiajun Chai, Guojun Yin, Wei Lin, Shuai Ma, Fuzhen Zhuang, Deqing Wang, Yaodong Yang, Jianxin Li, Yikun Ban*. [[pdf](https://arxiv.org/pdf/2601.08521)], 2025.01. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **ICPO: Intrinsic Confidence-Driven Group Relative Preference Optimization for Efficient Reinforcement Learning**  
+  *Jinpeng Wang, Chao Li, Ting Ye, Mengyuan Zhang, Wei Liu, Jian Luan*. [[pdf](https://arxiv.org/pdf/2511.21005)], 2025.11. ![](https://img.shields.io/badge/Arxiv2025-orange)
+
+### SFT: Flaws and Corrections
+- **ProFit: Leveraging High-Value Signals in SFT via Probability-Guided Token Selection**  
+  *Tao Liu, Taiqiang Wu, Runming Yang, Shaoning Sun, Junjie Wang, Yujiu Yang*. [[pdf](https://arxiv.org/pdf/2601.09195)], 2026.01. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **Anchored Supervised Fine-Tuning**  
+  *He Zhu, Junyou Su, Peng Lai, Ren Ma, Wenjia Zhang, Linyi Yang, Guanhua Chen*. [[pdf](https://arxiv.org/pdf/2509.23753)], 2025.09. ![](https://img.shields.io/badge/Arxiv2025-orange)
+- **Proximal Supervised Fine-Tuning**  
+  *He Zhu, Junyou Su, Peng Lai, Ren Ma, Wenjia Zhang, Linyi Yang, Guanhua Chen*. [[pdf](https://arxiv.org/pdf/2509.23753)], 2025.09. ![](https://img.shields.io/badge/Arxiv2025-orange)
 
 ### Exploration–Exploitation Optimization in GRPO
 
@@ -135,3 +147,7 @@ This repository contains a regularly updated paper list on the **roles and mecha
   *Zhipeng Chen, Xiaobo Qin, Youbin Wu, Yue Ling, Qinghao Ye, Wayne Xin Zhao, Guang Shi*. [[pdf](https://arxiv.org/pdf/2508.10751)], 2025.08. ![](https://img.shields.io/badge/Arxiv2025-orange)
 - **R3L: Reflect-then-Retry Reinforcement Learning with Language-Guided Exploration, Pivotal Credit, and Positive Amplification**  
   *Weijie Shi, Yanxi Chen, Zexi Li, Xuchen Pan, Yuchang Sun, Jiajie Xu, Xiaofang Zhou, Yaliang Li*. [[pdf](https://www.arxiv.org/pdf/2601.03715)], 2026.01. ![](https://img.shields.io/badge/Arxiv2026-orange)
+
+### Hybrid SFT-RL Training
+- **Trust-Region Adaptive Policy Optimization**  
+  *Mingyu Su, Jian Guan, Yuxian Gu, Minlie Huang, Hongning Wang*. [[pdf](https://arxiv.org/pdf/2512.17636)], 2025.12. ![](https://img.shields.io/badge/Arxiv2025-orange)
