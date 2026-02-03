@@ -123,7 +123,9 @@ This repository contains a regularly updated paper list on the **roles and mecha
 - **Anchored Supervised Fine-Tuning**  
   *He Zhu, Junyou Su, Peng Lai, Ren Ma, Wenjia Zhang, Linyi Yang, Guanhua Chen*. [[pdf](https://arxiv.org/pdf/2509.23753)], 2025.09. ![](https://img.shields.io/badge/Arxiv2025-orange)
 - **Proximal Supervised Fine-Tuning**  
-  *He Zhu, Junyou Su, Peng Lai, Ren Ma, Wenjia Zhang, Linyi Yang, Guanhua Chen*. [[pdf](https://arxiv.org/pdf/2509.23753)], 2025.09. ![](https://img.shields.io/badge/Arxiv2025-orange)
+  *Wenhong Zhu, Ruobing Xie, Rui Wang, Xingwu Sun, Di Wang, Pengfei Liu*. [[pdf](https://arxiv.org/pdf/2508.17784)], 2025.08. ![](https://img.shields.io/badge/Arxiv2025-orange)
+- **On the Generalization of SFT: A Reinforcement Learning Perspective with Reward Rectification**  
+  *Yongliang Wu, Yizhou Zhou, Zhou Ziheng, Yingzhe Peng, Xinyu Ye, Xinting Hu, Wenbo Zhu, Lu Qi, Ming-Hsuan Yang, Xu Yang*. [[pdf](https://arxiv.org/abs/2508.05629)], 2025.08. ![](https://img.shields.io/badge/Arxiv2025-orange)
 
 ### Exploration–Exploitation Optimization in GRPO
 
@@ -147,6 +149,10 @@ This repository contains a regularly updated paper list on the **roles and mecha
   *Zhipeng Chen, Xiaobo Qin, Youbin Wu, Yue Ling, Qinghao Ye, Wayne Xin Zhao, Guang Shi*. [[pdf](https://arxiv.org/pdf/2508.10751)], 2025.08. ![](https://img.shields.io/badge/Arxiv2025-orange)
 - **R3L: Reflect-then-Retry Reinforcement Learning with Language-Guided Exploration, Pivotal Credit, and Positive Amplification**  
   *Weijie Shi, Yanxi Chen, Zexi Li, Xuchen Pan, Yuchang Sun, Jiajie Xu, Xiaofang Zhou, Yaliang Li*. [[pdf](https://www.arxiv.org/pdf/2601.03715)], 2026.01. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **POPE: Learning to Reason on Hard Problems via Privileged On-Policy Exploration**  
+  *Yuxiao Qu, Amrith Setlur, Virginia Smith, Ruslan Salakhutdinov, Aviral Kumar*. [[pdf](https://www.arxiv.org/pdf/2601.18779)], 2026.01. ![](https://img.shields.io/badge/Arxiv2026-orange)
+
+
 
 ### Hybrid SFT-RL Training
 - **Trust-Region Adaptive Policy Optimization**  
