@@ -116,6 +116,8 @@ This repository contains a regularly updated paper list on the **roles and mecha
   *Fengkai Yang, Zherui Chen, Xiaohan Wang, Xiaodong Lu, Jiajun Chai, Guojun Yin, Wei Lin, Shuai Ma, Fuzhen Zhuang, Deqing Wang, Yaodong Yang, Jianxin Li, Yikun Ban*. [[pdf](https://arxiv.org/pdf/2601.08521)], 2025.01. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **ICPO: Intrinsic Confidence-Driven Group Relative Preference Optimization for Efficient Reinforcement Learning**  
   *Jinpeng Wang, Chao Li, Ting Ye, Mengyuan Zhang, Wei Liu, Jian Luan*. [[pdf](https://arxiv.org/pdf/2511.21005)], 2025.11. ![](https://img.shields.io/badge/Arxiv2025-orange)
+- **Rethinking the Trust Region in LLM Reinforcement Learning**  
+  *Penghui Qi, Xiangxin Zhou, Zichen Liu, Tianyu Pang, Chao Du, Min Lin, Wee Sun Lee*. [[pdf](https://arxiv.org/pdf/2602.04879)], 2026.02. ![](https://img.shields.io/badge/Arxiv2026-orange)
 
 ### SFT: Flaws and Corrections
 - **ProFit: Leveraging High-Value Signals in SFT via Probability-Guided Token Selection**  
